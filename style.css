@@ -1,0 +1,84 @@
+
+* {
+    margin: 10px;
+}
+.registration{
+    background-color:white;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.heading{
+text-align:center;
+}
+.form {
+    background-color:lightskyblue;
+    padding: 10px;
+    border: 1px solid lightskyblue;
+    margin: 20px;
+    border-radius: 10px;
+}        
+a {
+   color:blue;
+}
+        .employee{
+    background-color:lightgrey;
+    margin: 20px;
+    padding: 40px 10px 40px 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.employee1{
+text-align:center;
+}
+li {
+    padding: 10px;
+    font-size: 18px;
+    border-bottom: 1px solid #ddd;
+}
+.details {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.918);
+    border-radius: 10px;
+    text-align: center;
+}
+.details > h1 {
+    padding-bottom: 20px;
+}
+table, tr {
+    font-size: 18px;
+    width: 100%;
+}
+th {
+    background-color: rgba(0, 0, 255, 0.718);
+    color: white;
+    padding: 10px;
+}
+td {
+     padding: 5px;
+    color: black;
+    border-bottom: 1px solid rgba(46, 46, 46, 0.416);
+}
+td img {
+    border-radius: 50%;
+}
+.company {
+    margin: 20px;
+    text-align:center;
+}
+iframe {
+    border-radius: 10px;
+    width: 100%;
+      }
+input, button, select {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
